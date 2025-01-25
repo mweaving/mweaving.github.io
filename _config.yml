@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Morgan Weaving"
+title                    : "Morgan Weaving, Phd"
 title_separator          : "-"
-name                     : &name "Morgan Weaving"
+name                     : &name "Morgan Weaving, Phd"
 description              : &description "Social Scientist"
 url                      : https://mweaving.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "mweaving/mweaving.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Morgan Weaving"
+  name             : "Morgan Weaving, Phd"
   pronouns         : # example: "she/her"  
   bio              : "Social Scientist"
   location         : "San Francisco, CA"
